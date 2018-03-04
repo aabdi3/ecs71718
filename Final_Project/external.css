@@ -1,0 +1,22 @@
+
+body {
+    background-color: #dbab1a;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    background-color: #D9B310;
+    color: BLACK;
+}
+.jumbotron {
+    background-color: BLACK;
+    color: #D9B310;
+    text-align: center;
+}
+h3 {
+    background-color: black;
+    color: #D9B310;
+}
+
+    
