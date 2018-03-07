@@ -3,20 +3,53 @@ body {
     background-color: #dbab1a;
     margin: 0;
 }
+
 h1 {
     text-align: center;
     font-family: "Times New Roman", Times, serif;
     background-color: #D9B310;
     color: BLACK;
 }
+
 .jumbotron {
     background-color: BLACK;
     color: #D9B310;
     text-align: center;
 }
+
 h3 {
     background-color: black;
     color: #D9B310;
 }
 
-    
+header {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+.until {
+  text-align: center;
+}
+.beauty {
+  text-align: center;
+}
+.die {
+  text-align: center;
+}
+footer {
+   padding: 1em;
+   color: #dbab1a;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+}
