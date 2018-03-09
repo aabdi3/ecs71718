@@ -182,4 +182,6 @@ p {
 h4 {
   color: black;
 }
-
+.mycarousel {
+  width: 100%;
+}
